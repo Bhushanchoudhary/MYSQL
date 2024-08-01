@@ -24,13 +24,13 @@ At every time the user will be able to see his/her points and his/her position i
 
 A bidder can do the following things using this app:
 ●	can see all the match schedules (teams, date & time of the match, location). 
-●	bid on a team for a match before the start of the match 
+●	bid on a team for a match before the start of the match
 ●	can predict the match winner only till its toss occurs (Note that match start time might change due to weather conditions)
 ●	can bid for any number of matches
 ●	after bidding on a team, (s)he would be able to change his/her team before the match starts
 ●	bidding cannot be changed once the respective match starts
 ●	can cancel the bid on a match; will not lose any points
-●	At any time, the bidder will be able to see his/her points and his/her position in the overall bidder standings. 
+●	At any time, the bidder will be able to see his/her points and his/her position in the overall bidder standings.
 ●	can see top 3 leader positions
 ●	can see team standings anytime (i.e. their points tally)
 ●	cannot see any details of other bidders
